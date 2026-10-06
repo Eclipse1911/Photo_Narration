@@ -1,0 +1,34 @@
+{
+  "entities": {
+    "users": {
+      "title": "User",
+      "description": "User profile information",
+      "properties": {
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "bio": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["email", "createdAt"]
+    },
+    "stories": {
+      "title": "Story",
+      "description": "Photo story with AI narration",
+      "properties": {
+        "userId": { "type": "string" },
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "aiNarration": { "type": "string" },
+        "imageURL": { "type": "string" },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "isPublic": { "type": "boolean" },
+        "createdAt": { "type": "string" },
+        "likesCount": { "type": "number" },
+        "authorName": { "type": "string" },
+        "authorAvatar": { "type": "string" }
+      },
+      "required": ["userId", "title", "imageURL", "isPublic"]
+    }
+  }
+}
