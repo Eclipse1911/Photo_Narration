@@ -10,6 +10,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-12-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://photonarration.vercel.app/)
 
 <br/>
 
@@ -17,7 +18,7 @@
 
 <br/>
 
-![Demo Banner](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-FF6B6B?style=for-the-badge)
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-photonarration.vercel.app-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://photonarration.vercel.app/)
 
 </div>
 
